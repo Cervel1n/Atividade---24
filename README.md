@@ -1,5 +1,5 @@
 # Atividade-24
-##
+
 1- Gabriel Cervelin
 2- Nikolas Prá
 3- Kauan Paiano
